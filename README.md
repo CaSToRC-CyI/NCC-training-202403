@@ -1,0 +1,5 @@
+# Introduction to Parallel Computing for Beginners
+
+Training event of [EuroCC Cyprus](https://eurocc.cyi.ac.cy/), March 15th 2024. The agenda and other details about this event can be found [here](https://eurocc.cyi.ac.cy/introduction-to-parallel-computing-for-beginners-training-event-2024/).
+
+<sub><sub>This event is part of the [EuroCC2 project](https://www.eurocc-access.eu/about-us/the-projects/) and the National Competence Center activities. The EuroCC2 project has received funding from the European High-Performance Computing Joint Undertaking (JU) under grant agreement No 101101903. The JU receives support from the European Union’s programme Digital Europe and Germany, Bulgaria, Austria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, Greece, Hungary, Ireland, Italy, Lithuania, Latvia, Poland, Portugal, Romania, Slovenia, Spain, Sweden, France, Netherlands, Belgium, Luxembourg , Slovakia, Norway, Switzerland, Turkey, the Republic of North Macedonia, Iceland, Montenegro and Serbia.</sub></sub>
